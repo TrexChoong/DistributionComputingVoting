@@ -1,0 +1,42 @@
+﻿  Source.cpp
+C:\projects\collegeNotes\July2023\distributed systems\Practicals\AssignmentVoting\AssignmentVoting\Source.cpp(8,11): warning C4244: 'initializing': conversion from 'const _Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\projects\collegeNotes\July2023\distributed systems\Practicals\AssignmentVoting\AssignmentVoting\Source.cpp(8,23): warning C4244: 'initializing': conversion from 'const _Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\projects\collegeNotes\July2023\distributed systems\Practicals\AssignmentVoting\AssignmentVoting\Source.cpp(8,35): warning C4244: 'initializing': conversion from 'const _Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\projects\collegeNotes\July2023\distributed systems\Practicals\AssignmentVoting\AssignmentVoting\Source.cpp(8,47): warning C4244: 'initializing': conversion from 'const _Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\projects\collegeNotes\July2023\distributed systems\Practicals\AssignmentVoting\AssignmentVoting\Source.cpp(9,11): warning C4244: 'initializing': conversion from 'const _Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\projects\collegeNotes\July2023\distributed systems\Practicals\AssignmentVoting\AssignmentVoting\Source.cpp(9,23): warning C4244: 'initializing': conversion from 'const _Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\projects\collegeNotes\July2023\distributed systems\Practicals\AssignmentVoting\AssignmentVoting\Source.cpp(9,35): warning C4244: 'initializing': conversion from 'const _Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\projects\collegeNotes\July2023\distributed systems\Practicals\AssignmentVoting\AssignmentVoting\Source.cpp(9,47): warning C4244: 'initializing': conversion from 'const _Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  AssignmentVoting.vcxproj -> C:\projects\collegeNotes\July2023\distributed systems\Practicals\AssignmentVoting\x64\Debug\AssignmentVoting.exe
